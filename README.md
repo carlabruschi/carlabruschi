@@ -27,5 +27,6 @@ Quero motivar jovens meninas a se interessarem pelo mundo da tecnologia!
 
 ## O que ando praticando:
 
-**Desafios diários no LeetCode** 
-**Desafio dos 100 Dias de UX no Daily UX Challenge**  
+>**Desafios diários no LeetCode**
+>
+>**Desafio dos 100 Dias de UX no Daily UX Challenge**  
