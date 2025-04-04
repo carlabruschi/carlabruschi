@@ -1,7 +1,15 @@
-# 👩‍💻 Oi, Eu sou a Carla!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F72C54&background=240E1CC7&vCenter=true&random=true&width=435&lines=Oi%2C+eu+sou+a+Carla!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-Sou movida por **chá de maçã** ☕. Atualmente, estou trabalhando em projetos que misturam **história, mulheres incríveis da computação** e **jogos educativos**.  
-Quero motivar jovens meninas a se interessarem pelo mundo da tecnologia!
+<table>
+  <tr>
+    <td><img src="https://media.tenor.com/LqMVgeweDokAAAAM/food-tea.gif" width="180px"></td>
+    <td>
+      <strong>Adoro um chá de maçã ☕ para acompanhar enquanto trabalho.</strong><br>
+      Atualmente, estou trabalhando em projetos que misturam <strong>história, mulheres incríveis da computação</strong> e <strong>jogos educativos</strong>.<br>
+      Quero motivar jovens meninas a se interessarem pelo mundo da tecnologia! ✨
+    </td>
+  </tr>
+</table>
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,4 +40,8 @@ Quero motivar jovens meninas a se interessarem pelo mundo da tecnologia!
 
 >**Desafios diários no LeetCode**
 >
->**Desafio dos 100 Dias de UX no Daily UX Challenge**  
+>**Desafio dos 100 Dias de UX no Daily UX Challenge**
+
+---
+
+
