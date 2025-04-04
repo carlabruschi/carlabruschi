@@ -21,8 +21,11 @@ Quero motivar jovens meninas a se interessarem pelo mundo da tecnologia!
 **TCC - ElaCoda**  
 > Uma série de minigames para homenagear mulheres que moldaram a Computação.  
 > Com direito a uma exposição e muita nostalgia pixelada!
-**Estágio - Ambientes Virtuais de Aprendizagem (Moodle)**  
-> Explorando o Moodle e contribuindo com melhorias e suporte em plataformas de educação a distância.  
+> 
+**Estágio - Hospital Universitário da Univerdade Federal da Grande Dourados**  
+> Explorando o Moodle e contribuindo com melhorias e suporte em plataformas de educação a distância.
+>
+>   
 ---
 
 ## O que ando praticando:
