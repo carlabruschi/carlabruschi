@@ -37,23 +37,11 @@ Quero motivar jovens meninas a se interessarem pelo mundo da tecnologia!
 > Melhorando minha visão de usabilidade, design de interfaces e microtextos criativos — um passo por dia!
 
 ---
-
-## ✨ Tecnologias que me acompanham:
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat&logo=pygame&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 🎧 O que estou ouvindo agora:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12156273578&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app)
-
----
 
 ## 📊 Estatísticas do GitHub
 
