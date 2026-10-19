@@ -13,12 +13,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/logo-instituicoes-dourado.png">
-  <img src="assets/logo-instituicoes-vinho.png" alt="UX Leris | Departamento de Computação | UFSCar" width="320">
+  <img src="assets/logo-instituicoes-vinho.png" alt="UX Leris | Computer Department | UFSCar" width="320">
 </picture>
 
 <br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFC961&background=540C23&center=true&vCenter=true&random=false&width=620&height=60&lines=Oi%2C+eu+sou+a+Carla!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Pesquisadora+em+IHC+e+UX;Design+%2B+Computa%C3%A7%C3%A3o+Centrada+no+Humano" alt="Typing SVG"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFC961&background=540C23&center=true&vCenter=true&random=false&width=620&height=60&lines=Hi%2C+I'm+Carla!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;HCI+and+UX+Researcher;Design+%2B+Human-Centered+Computing" alt="Typing SVG"></a>
 
 <br>
 
@@ -26,7 +26,7 @@
 [![Lattes](https://img.shields.io/badge/Lattes-540C23?style=for-the-badge&logo=academia&logoColor=FFC961)](http://lattes.cnpq.br/6381081242805114)
 [![Portfolio](https://img.shields.io/badge/Portfolio-540C23?style=for-the-badge&logo=googlechrome&logoColor=FFC961)](https://carlabruschi.github.io/Linktree/)
 [![Email](https://img.shields.io/badge/Email-540C23?style=for-the-badge&logo=gmail&logoColor=FFC961)](mailto:carlarbruschi@gmail.com)
-[![UFSCar](https://img.shields.io/badge/E--mail_UFSCar-540C23?style=for-the-badge&logo=minutemailer&logoColor=FFC961)](mailto:carlabruschi@estudante.ufscar.br)
+[![UFSCar](https://img.shields.io/badge/UFSCar_Email-540C23?style=for-the-badge&logo=minutemailer&logoColor=FFC961)](mailto:carlabruschi@estudante.ufscar.br)
 
 </div>
 
@@ -34,35 +34,33 @@
 
 <table>
   <tr>
-    <td width="150" align="center"><img src="assets/flor.png" width="130" alt="Flor de ipê"></td>
+    <td width="150" align="center"><img src="assets/flor.png" width="130" alt="Ipê flower"></td>
     <td>
-      <strong>Adoro um chá de maçã ☕ para acompanhar enquanto trabalho.</strong><br><br>
-      Mestranda em Ciência da Computação na <strong>UFSCar</strong> (Computação Centrada no Humano), integrante do grupo de pesquisa <strong>UX Leris</strong>. Pesquiso a integração de <strong>Agentes Inteligentes</strong> para apoiar <strong>UX Research</strong> e <strong>Engenharia de Requisitos</strong> com perspectiva longitudinal.<br><br>
-      Apaixonada por unir <strong>design centrado no usuário</strong>, <strong>acessibilidade</strong> e <strong>tecnologia</strong> para criar experiências digitais inclusivas e impactantes. ✨
+      <strong>I love an apple tea ☕ to keep me company while I work.</strong><br><br>
+      M.Sc. student in Computer Science at <strong>UFSCar</strong> (Human-Centered Computing) and member of the <strong>UX Leris</strong> research group. I research how <strong>Intelligent Agents</strong> can support <strong>UX Research</strong> and <strong>Requirements Engineering</strong> from a longitudinal perspective.<br><br>
+      Passionate about bringing together <strong>user-centered design</strong>, <strong>accessibility</strong>, and <strong>technology</strong> to create inclusive and impactful digital experiences. ✨
     </td>
   </tr>
 </table>
 
 <img src="assets/divisor.png" width="100%" alt="">
 
-## 🎓 Formação
+## 🎓 Education
 
-- **Mestrado em Ciência da Computação** — UFSCar (2026 – atual) · Bolsista CAPES · Orientadora: Profa. Dra. Luciana A. Martinez Zaina
-- **Bacharelado em Engenharia de Computação** — UFGD (2020 – 2025)
+- **M.Sc. in Computer Science** — UFSCar (2026 – present) · CAPES Scholar · Advisor: Prof. Dr. Luciana A. Martinez Zaina
+- **B.Sc. in Computer Engineering** — UFGD (2020 – 2025)
 
-## 🔬 Áreas de Pesquisa
+## 🔬 Research Areas
 
-- **Interação Humano-Computador (IHC)** e **Experiência do Usuário (UX)**
-- **Engenharia de Requisitos Ágil** com perspectiva longitudinal da UX
-- **Agentes Inteligentes / LLMs** aplicados à UX Research
-- **Acessibilidade** e **Design Inclusivo**
-- **Jogos Educativos** e protagonismo feminino na tecnologia
+* Human-Computer Interaction (HCI) and User Experience (UX)
+* Agile Requirements Engineering with a longitudinal UX perspective
+* Intelligent Agents / LLMs applied to UX Research
 
 <img src="assets/divisor.png" width="100%" alt="">
 
-## 💻 Habilidades
+## 💻 Skills
 
-**Desenvolvimento**
+**Development**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-540C23?style=flat&logo=cplusplus&logoColor=FFC961)
 ![Python](https://img.shields.io/badge/Python-540C23?style=flat&logo=python&logoColor=FFC961)
@@ -71,7 +69,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-540C23?style=flat&logo=css3&logoColor=FFC961)
 ![Git](https://img.shields.io/badge/Git-540C23?style=flat&logo=git&logoColor=FFC961)
 
-**Design e UX**
+**Design & UX**
 
 ![Figma](https://img.shields.io/badge/Figma-540C23?style=flat&logo=figma&logoColor=FFC961)
 ![Photoshop](https://img.shields.io/badge/Photoshop-540C23?style=flat&logo=adobephotoshop&logoColor=FFC961)
@@ -82,70 +80,58 @@
 
 <img src="assets/divisor.png" width="100%" alt="">
 
-## 📚 Publicações e Produções
+## 📚 Publications & Productions
 
-### Artigos publicados
-- **"Bugou?"**: História, tecnologia e diversidade — conhecendo Grace Hopper em um minijogo digital. *WIT 2025*
-- **"A Caixinha do Futuro"**: Minijogo sobre a história de Hedy Lamarr para fomentar o protagonismo feminino na tecnologia. *TISE 2025*
+### Published papers
+- **"Bugou?"**: History, technology, and diversity — getting to know Grace Hopper in a digital mini-game. *WIT 2025*
+- **"A Caixinha do Futuro"**: A mini-game about Hedy Lamarr's story to foster female protagonism in technology. *TISE 2025*
 
-### Softwares registrados (INPI)
-- 🎮 **Bugou?** — Registro BR512026000276-1
-- 🎮 **A Caixinha do Futuro** — Registro BR512026000278-8
+### Registered software (INPI)
+- 🎮 **Bugou?** — Registration BR512026000276-1
+- 🎮 **A Caixinha do Futuro** — Registration BR512026000278-8
 
-### Apresentações e cursos ministrados
-- *Temporalidade em UX e o Uso de LLMs/Agentes Inteligentes na UX Research* — EPIHCSP, 2026
-- *Introdução ao Design Centrado no Usuário para Desenvolvedores* — oficina na Semana Integrada da Computação, 2025
-
-<img src="assets/divisor.png" width="100%" alt="">
-
-## 🚀 Projetos em Destaque
-
-### Mestrado — UFSCar
-> **Integrando Agentes Inteligentes à Engenharia de Requisitos com Perspectiva Longitudinal da UX**
-> - Investigando como agentes inteligentes podem apoiar a integração da dimensão temporal da UX na Engenharia de Requisitos Ágil
-> - Mapeamento de práticas, técnicas e ferramentas utilizadas pela indústria em UX Research e RE
-
-### TCC — ElaCoda
-> **Série de minigames para homenagear mulheres que moldaram a Computação**
-> - Interface e experiência do usuário projetadas com foco em acessibilidade
-> - Exposição interativa e nostalgia pixelada! 🕹️
-
-### Estágio — Hospital Universitário UFGD/Ebserh
-> **Customização de Plataforma Moodle para Educação a Distância**
-> - Personalização de identidade visual e estruturação de cursos
-> - Aplicação de princípios de UX e acessibilidade na interface
+### Talks & courses taught
+- *Temporality in UX and the Use of LLMs/Intelligent Agents in UX Research* — EPIHCSP, 2026
+- *Introduction to User-Centered Design for Developers* — workshop at Semana Integrada da Computação, 2025
 
 <img src="assets/divisor.png" width="100%" alt="">
 
-## 🌟 Atividades Complementares
+## 🚀 Featured Projects
 
-- **Representante Estudantil** — Sociedade Brasileira de Computação (SBC) | 2023 – atual
-- **Coordenadora de Comunicação** — CAECOMP/UFGD | 2023 – 2025
-- **Bolsista de Extensão (Design Gráfico)** — Programa Cultura e Arte por Toda Parte | 2023 – 2025
-- **Monitora** — Algoritmos e Estruturas de Dados I | 2024
+### M.Sc. — UFSCar
+> **Integrating Intelligent Agents into Requirements Engineering with a Longitudinal UX Perspective**
+> - Investigating how intelligent agents can support the integration of the temporal dimension of UX into Agile Requirements Engineering
+> - Mapping practices, techniques, and tools used by industry in UX Research and RE
 
-### Cursos e certificações
-- Formação UX Design (42h) — Caelum
-- Introdução à Libras (60h) — ENAP
-- Excel Avançado (30h) — ENAP
+### Undergraduate Thesis — ElaCoda
+> **A series of mini-games honoring women who shaped Computing**
+> - Interface and user experience designed with a focus on accessibility
+> - Interactive exhibition and pixelated nostalgia! 🕹️
+
+### Internship — University Hospital UFGD/Ebserh
+> **Moodle Platform Customization for Distance Learning**
+> - Visual identity customization and course structuring
+> - Application of UX and accessibility principles to the interface
 
 <img src="assets/divisor.png" width="100%" alt="">
 
-## 📊 Estatísticas do GitHub
+## 🌟 Extracurricular Activities
+
+- **Student Representative** — Brazilian Computer Society (SBC) | 2023 – present
+- **Communications Coordinator** — CAECOMP/UFGD | 2023 – 2025
+- **Extension Scholar (Graphic Design)** — "Cultura e Arte por Toda Parte" Program | 2023 – 2025
+- **Teaching Assistant** — Algorithms and Data Structures I | 2024
+
+### Courses & certifications
+- UX Design Training (42h) — Caelum
+- Introduction to Brazilian Sign Language, Libras (60h) — ENAP
+- Advanced Excel (30h) — ENAP
+
+<img src="assets/divisor.png" width="100%" alt="">
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=carlabruschi&show_icons=true&hide_border=false&bg_color=540C23&title_color=FFC961&text_color=FFF8D2&icon_color=FFC961&border_color=FFC961">
-  <img height="170" alt="Top linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlabruschi&layout=compact&bg_color=540C23&title_color=FFC961&text_color=FFF8D2&border_color=FFC961">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=carlabruschi&show_icons=true&bg_color=540C23&title_color=FFC961&text_color=FFF8D2&icon_color=FFC961&border_color=FFC961">
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlabruschi&layout=compact&bg_color=540C23&title_color=FFC961&text_color=FFF8D2&border_color=FFC961">
 </p>
-
-<p align="center">
-  <img src="assets/cartao-frente.png" width="48%" alt="Cartão de visita — frente">
-  <img src="assets/cartao-costas.png" width="48%" alt="Cartão de visita — verso">
-</p>
-
-<img src="assets/banner-rodape.png" width="100%" alt="Carla Bruschi — assinatura">
-
-<div align="center">
-  <i>"Unindo design, tecnologia e propósito para criar experiências que transformam."</i>
-  <br><sub>Identidade visual © Carla Bruschi — todos os direitos reservados.</sub>
-</div>
