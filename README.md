@@ -1,7 +1,22 @@
 <div align="center">
 
-<img src="assets/banner-topo.png" alt="Carla Bruschi — M.Sc. Student in Computer Science at Computer Department, UFSCar" width="100%">
-<img src="assets/banner-instituicoes.png" alt="UX Leris | Departamento de Computação | UFSCar" width="100%">
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-nome-dourado.png">
+  <img src="assets/logo-nome-vinho.png" alt="Carla Bruschi" width="300">
+</picture>
+
+<br><br>
+
+**M.Sc. Student in Computer Science at Computer Department — UFSCar**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-instituicoes-dourado.png">
+  <img src="assets/logo-instituicoes-vinho.png" alt="UX Leris | Departamento de Computação | UFSCar" width="320">
+</picture>
+
+<br><br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFC961&background=540C23&center=true&vCenter=true&random=false&width=620&height=60&lines=Oi%2C+eu+sou+a+Carla!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Pesquisadora+em+IHC+e+UX;Design+%2B+Computa%C3%A7%C3%A3o+Centrada+no+Humano" alt="Typing SVG"></a>
 
