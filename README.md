@@ -53,7 +53,7 @@
 ## 🔬 Research Areas
 
 * Human-Computer Interaction (HCI) and User Experience (UX)
-* Agile Requirements Engineering with a longitudinal UX perspective
+* Requirements Engineering with a longitudinal UX perspective
 * Intelligent Agents / LLMs applied to UX Research
 
 <img src="assets/divisor.png" width="100%" alt="">
@@ -75,7 +75,6 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-540C23?style=flat&logo=adobephotoshop&logoColor=FFC961)
 ![Illustrator](https://img.shields.io/badge/Illustrator-540C23?style=flat&logo=adobeillustrator&logoColor=FFC961)
 ![InDesign](https://img.shields.io/badge/InDesign-540C23?style=flat&logo=adobeindesign&logoColor=FFC961)
-![Premiere](https://img.shields.io/badge/Premiere-540C23?style=flat&logo=adobepremierepro&logoColor=FFC961)
 ![Moodle](https://img.shields.io/badge/Moodle-540C23?style=flat&logo=moodle&logoColor=FFC961)
 
 <img src="assets/divisor.png" width="100%" alt="">
