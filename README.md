@@ -11,20 +11,20 @@
 
 **M.Sc. Student in Computer Science at Computer Department — UFSCar**
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFC961&background=540C23&center=true&vCenter=true&random=false&width=760&height=60&lines=Human-Centered+Computing+Researcher;Continuous+UX+Research+%2B+Requirements+Engineering;Intelligent+Agents" alt="Typing SVG"></a>
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/logo-instituicoes-dourado.png">
-  <img src="assets/logo-instituicoes-vinho.png" alt="UX Leris | Computer Department | UFSCar" width="320">
+  <img src="assets/logo-instituicoes-vinho.png" alt="UX Leris | Computer Department | UFSCar" width="200">
 </picture>
 
 <br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFC961&background=540C23&center=true&vCenter=true&random=false&width=620&height=60&lines=Hi%2C+I'm+Carla!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;HCI+and+UX+Researcher;Design+%2B+Human-Centered+Computing" alt="Typing SVG"></a>
-
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-540C23?style=for-the-badge&logo=linkedin&logoColor=FFC961)](https://www.linkedin.com/in/carla-bruschi)
 [![Lattes](https://img.shields.io/badge/Lattes-540C23?style=for-the-badge&logo=academia&logoColor=FFC961)](http://lattes.cnpq.br/6381081242805114)
-[![Portfolio](https://img.shields.io/badge/Portfolio-540C23?style=for-the-badge&logo=googlechrome&logoColor=FFC961)](https://carlabruschi.github.io/Linktree/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-540C23?style=for-the-badge&logo=googlechrome&logoColor=FFC961)](https://drive.google.com/file/d/1O3LdnQHpUxknqfDy77gaRMQigXY9fDdX/view)
 [![Email](https://img.shields.io/badge/Email-540C23?style=for-the-badge&logo=gmail&logoColor=FFC961)](mailto:carlarbruschi@gmail.com)
 [![UFSCar](https://img.shields.io/badge/UFSCar_Email-540C23?style=for-the-badge&logo=minutemailer&logoColor=FFC961)](mailto:carlabruschi@estudante.ufscar.br)
 
@@ -37,8 +37,7 @@
     <td width="150" align="center"><img src="assets/flor.png" width="130" alt="Ipê flower"></td>
     <td>
       <strong>I love an apple tea ☕ to keep me company while I work.</strong><br><br>
-      M.Sc. student in Computer Science at <strong>UFSCar</strong> (Human-Centered Computing) and member of the <strong>UX Leris</strong> research group. I research how <strong>Intelligent Agents</strong> can support <strong>UX Research</strong> and <strong>Requirements Engineering</strong> from a longitudinal perspective.<br><br>
-      Passionate about bringing together <strong>user-centered design</strong>, <strong>accessibility</strong>, and <strong>technology</strong> to create inclusive and impactful digital experiences. ✨
+      M.Sc. student in Computer Science at <strong>UFSCar</strong> (Human-Centered Computing) and member of the <strong>UX Leris</strong> research group. I research how <strong>Intelligent Agents</strong> can support <strong>UX Research</strong> and <strong>Requirements Engineering</strong> from a longitudinal perspective.
     </td>
   </tr>
 </table>
@@ -53,7 +52,7 @@
 ## 🔬 Research Areas
 
 * Human-Computer Interaction (HCI) and User Experience (UX)
-* Requirements Engineering with a longitudinal UX perspective
+* Agile Requirements Engineering with a longitudinal UX perspective
 * Intelligent Agents / LLMs applied to UX Research
 
 <img src="assets/divisor.png" width="100%" alt="">
@@ -75,6 +74,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-540C23?style=flat&logo=adobephotoshop&logoColor=FFC961)
 ![Illustrator](https://img.shields.io/badge/Illustrator-540C23?style=flat&logo=adobeillustrator&logoColor=FFC961)
 ![InDesign](https://img.shields.io/badge/InDesign-540C23?style=flat&logo=adobeindesign&logoColor=FFC961)
+![Premiere](https://img.shields.io/badge/Premiere-540C23?style=flat&logo=adobepremierepro&logoColor=FFC961)
 ![Moodle](https://img.shields.io/badge/Moodle-540C23?style=flat&logo=moodle&logoColor=FFC961)
 
 <img src="assets/divisor.png" width="100%" alt="">
@@ -133,4 +133,11 @@
 <p align="center">
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=carlabruschi&show_icons=true&bg_color=540C23&title_color=FFC961&text_color=FFF8D2&icon_color=FFC961&border_color=FFC961">
   <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlabruschi&layout=compact&bg_color=540C23&title_color=FFC961&text_color=FFF8D2&border_color=FFC961">
+</p>
+
+<p align="right">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/assinatura-dourado.png">
+    <img src="assets/assinatura-vinho.png" alt="Carla B." width="90">
+  </picture>
 </p>
